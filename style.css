@@ -38,23 +38,23 @@ input.blue-button {
   margin: 0;
 }
 
-.header, .header-links, .header-advanced-logo, .header-advance {
+.header, .header-links, .header-advance-logo, .header-advance {
   display: flex;
   align-items: center;
 }
-.header a, .header-links a, .header-advanced-logo a, .header-advance a {
+.header a, .header-links a, .header-advance-logo a, .header-advance a {
   color: black;
   padding: 10px;
   text-decoration: none;
 }
-.header-advanced {
+.header-advance {
   background-color: #f1f1f1;
   height: 50px;
 }
-.header-advanced-logo {
+.header-advance-logo {
   padding: 10px;
 }
-.header-advanced-logo img {
+.header-advance-logo img {
   height: 30px;
 }
 .header-links {
